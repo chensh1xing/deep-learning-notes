@@ -1,0 +1,11 @@
+Thumbs.db
+
+.vscode/
+.idea/
+
+*.bak
+*.swp
+*~
+
+*.pdf
+*.html
